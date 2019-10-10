@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<script>
+(prompt) "Please enter a number";
+> 256
+
+0 thousands
+2 hundreds
+5 tens
+6 ones
+</script>
+</body>
+</body>
+</html>		
